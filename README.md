@@ -3,4 +3,4 @@
 
 Repositório criado para testes do Git + GitHub
 
-Alterei diretamente aqui no  Site do GitHub!
+Alterei diretamente aqui no Site do GitHub!
