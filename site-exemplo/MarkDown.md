@@ -6,6 +6,6 @@ Itálico *um asterisco* ou _um underline_
 
 Sobrescrito ~~dois tils~~
 
-Títulos # hashtag, espaço e o texto
+# Títulos # hashtag, espaço e o texto
 
-Subtítulos ## duas hastags, espaço e o texto
+## Subtítulos ## duas hastags, espaço e o texto
