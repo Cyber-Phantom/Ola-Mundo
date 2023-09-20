@@ -95,3 +95,48 @@ __*Negrito e itálico*__ estilos misturados
 - [ ] Fazer contas
 - [ ] Etc
 
+[Criando um link clicável](https://www.instagram.com/)
+
+![JPEG_20180324_213805](https://github.com/Cyber-Phantom/Ola-Mundo/assets/132688085/c14f9b2e-0d17-4069-acf7-3493f3fdafbe)
+
+![Dont_Touch_My_Phone-wallpaper-10204412](https://github.com/Cyber-Phantom/Ola-Mundo/assets/132688085/4c77ae30-4a5d-4163-9712-f3ddd791b764)
+
+# TABELA
+
+## Tabela de Notas de alunos
+
+Num | Nome | Nota
+---|---|---
+1 | Eu | 10,0
+2 | Você | 2,0
+3 | Outro | 5,8
+4 | Ninguém | 3,5
+
+Fim da tabela.
+
+## trechos marcados na frase
+
+Exemplo: Não entendo pra que serve o `Console.Log('Texto')` no JS... `Crases` deixa o texto marcado
+
+## Trechos de programa: TRÊS CRASES
+
+Olha meu programa em Python: ATENÇÃO!! SÃO TRES CRASES
+```
+num = int(input('Digite um valor: ')
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é IMPAR')
+```
+
+Outro modo, com PrintScreen: Control C / Control V
+
+![image](https://github.com/Cyber-Phantom/Ola-Mundo/assets/132688085/e620793f-b5de-4612-91b2-a310b92d3326)
+
+## Colocando emojis...
+
+Testando 🤑 ✋ (basta digitar : e o nome do emoji): Texto qq :NomeDoEmoji
+
+## Indicando
+
+> Será que vai chover?
