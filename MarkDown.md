@@ -13,6 +13,12 @@ O gato<br>
 comeu o rato
 ```
 
+Citação se inicia com um sinal de > no início da frase (veja o texto na edição):
+
+> Fazendo uma citação:
+>
+> "Como a vida é bela!"
+
 ---
 # Títulos # hashtag, espaço e o texto (a # tem de estar no início)
 
