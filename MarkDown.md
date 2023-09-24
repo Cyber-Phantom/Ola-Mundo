@@ -6,6 +6,13 @@ Itálico *um asterisco* ou _um underline_
 
 Sobrescrito ~~dois tils~~
 
+´´´
+O <br> quebra linhas
+
+O gato<br>
+comeu o rato
+```
+
 ---
 # Títulos # hashtag, espaço e o texto (a # tem de estar no início)
 
